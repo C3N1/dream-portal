@@ -46,8 +46,7 @@
 ---
 
 ## 📌 Live Demo
-🔗 [Visit the website here](https://yourusername.github.io/dream-portal/)  
-🔹 *Replace with the actual GitHub Pages link after deployment.*
+🔗 [Visit the website here](https://yourusername.github.io/dream-portal/) 
 
 ---
 
