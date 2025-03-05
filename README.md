@@ -44,9 +44,9 @@
 - **Particles.js** – Animated particle background  
 
 ---
-
+\
 ## 📌 Live Demo
-🔗 [Visit the website here](https://yourusername.github.io/dream-portal/) 
+🔗 [Visit the website here](https://c3n1.github.io/dream-portal/) 
 
 ---
 
